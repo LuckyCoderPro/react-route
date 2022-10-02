@@ -1,0 +1,16 @@
+.Nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.nav-links a{
+    text-decoration: none;
+    color: #00e1ff;
+    margin-left: 10px;
+}
+
+.nav-links a:hover{
+    color: #000000;
+}
